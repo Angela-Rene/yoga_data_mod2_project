@@ -1,0 +1,507 @@
+{
+  "access": {
+    "embargo": {
+      "active": false,
+      "reason": null
+    },
+    "files": "public",
+    "record": "public",
+    "status": "open"
+  },
+  "created": "2024-05-08T18:34:05.308862+00:00",
+  "custom_fields": {
+    "code:codeRepository": "https://github.com/guevaracodina/asana",
+    "code:developmentStatus": {
+      "id": "active",
+      "title": {
+        "en": "Active"
+      }
+    },
+    "code:programmingLanguage": [
+      {
+        "id": "matlab",
+        "title": {
+          "en": "MATLAB"
+        }
+      }
+    ],
+    "thesis:thesis": {
+      "university": "Universidad Autonomo San Luis Potosi"
+    }
+  },
+  "deletion_status": {
+    "is_deleted": false,
+    "status": "P"
+  },
+  "files": {
+    "count": 2,
+    "enabled": true,
+    "entries": {
+      "ANOVA_GrpStats_HBO_Final_Results_Demographics.xlsx": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:8a5edc0fa16d6c51f4f912accadb865e",
+        "ext": "xlsx",
+        "id": "40921a9f-c648-4532-9b64-7bb051d4d85c",
+        "key": "ANOVA_GrpStats_HBO_Final_Results_Demographics.xlsx",
+        "links": {
+          "content": "https://zenodo.org/api/records/11098997/files/ANOVA_GrpStats_HBO_Final_Results_Demographics.xlsx/content",
+          "self": "https://zenodo.org/api/records/11098997/files/ANOVA_GrpStats_HBO_Final_Results_Demographics.xlsx"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "size": 107863,
+        "storage_class": "L"
+      },
+      "Yoga_Asana_fNIRS.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:c413caa961e2a909d42c259047c5928f",
+        "ext": "zip",
+        "id": "3291f2a5-15ed-4be7-89ff-d8e808cea0e8",
+        "key": "Yoga_Asana_fNIRS.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/11098997/files/Yoga_Asana_fNIRS.zip/content",
+          "self": "https://zenodo.org/api/records/11098997/files/Yoga_Asana_fNIRS.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 556201649,
+        "storage_class": "L"
+      }
+    },
+    "order": [],
+    "total_bytes": 556309512
+  },
+  "id": "11098997",
+  "is_draft": false,
+  "is_published": true,
+  "links": {
+    "access": "https://zenodo.org/api/records/11098997/access",
+    "access_grants": "https://zenodo.org/api/records/11098997/access/grants",
+    "access_links": "https://zenodo.org/api/records/11098997/access/links",
+    "access_request": "https://zenodo.org/api/records/11098997/access/request",
+    "access_users": "https://zenodo.org/api/records/11098997/access/users",
+    "archive": "https://zenodo.org/api/records/11098997/files-archive",
+    "archive_media": "https://zenodo.org/api/records/11098997/media-files-archive",
+    "communities": "https://zenodo.org/api/records/11098997/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/11098997/communities-suggestions",
+    "doi": "https://doi.org/10.5281/zenodo.11098997",
+    "draft": "https://zenodo.org/api/records/11098997/draft",
+    "files": "https://zenodo.org/api/records/11098997/files",
+    "latest": "https://zenodo.org/api/records/11098997/versions/latest",
+    "latest_html": "https://zenodo.org/records/11098997/latest",
+    "media_files": "https://zenodo.org/api/records/11098997/media-files",
+    "parent": "https://zenodo.org/api/records/11098996",
+    "parent_doi": "https://doi.org/10.5281/zenodo.11098996",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.11098996",
+    "parent_html": "https://zenodo.org/records/11098996",
+    "preview_html": "https://zenodo.org/records/11098997?preview=1",
+    "requests": "https://zenodo.org/api/records/11098997/requests",
+    "reserve_doi": "https://zenodo.org/api/records/11098997/draft/pids/doi",
+    "self": "https://zenodo.org/api/records/11098997",
+    "self_doi": "https://doi.org/10.5281/zenodo.11098997",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.11098997",
+    "self_html": "https://zenodo.org/records/11098997",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:11098997/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:11098997/sequence/default",
+    "versions": "https://zenodo.org/api/records/11098997/versions"
+  },
+  "media_files": {
+    "count": 0,
+    "enabled": false,
+    "entries": {},
+    "order": [],
+    "total_bytes": 0
+  },
+  "metadata": {
+    "contributors": [
+      {
+        "affiliations": [
+          {
+            "id": "000917t60",
+            "identifiers": [
+              {
+                "identifier": "000917t60",
+                "scheme": "ror"
+              },
+              {
+                "identifier": "grid.412862.b",
+                "scheme": "grid"
+              },
+              {
+                "identifier": "0000 0001 2191 239X",
+                "scheme": "isni"
+              }
+            ],
+            "name": "Autonomous University of San Luis Potos\u00ed"
+          },
+          {
+            "id": "00aejfc65",
+            "identifiers": [
+              {
+                "identifier": "00aejfc65",
+                "scheme": "ror"
+              },
+              {
+                "identifier": "grid.507540.3",
+                "scheme": "grid"
+              },
+              {
+                "identifier": "0000 0004 0387 9444",
+                "scheme": "isni"
+              }
+            ],
+            "name": "Consejo Nacional de Ciencia y Tecnolog\u00eda"
+          }
+        ],
+        "person_or_org": {
+          "family_name": "Kolosovas",
+          "given_name": "Samuel",
+          "name": "Kolosovas, Samuel",
+          "type": "personal"
+        },
+        "role": {
+          "id": "supervisor",
+          "title": {
+            "de": "SupervisorIn",
+            "en": "Supervisor"
+          }
+        }
+      },
+      {
+        "person_or_org": {
+          "identifiers": [
+            {
+              "identifier": "00aejfc65",
+              "scheme": "ror"
+            },
+            {
+              "identifier": "0000 0004 0387 9444",
+              "scheme": "isni"
+            }
+          ],
+          "name": "Consejo Nacional de Ciencia y Tecnolog\u00eda",
+          "type": "organizational"
+        },
+        "role": {
+          "id": "hostinginstitution",
+          "title": {
+            "de": "Bereitstellende Institution",
+            "en": "Hosting institution"
+          }
+        }
+      },
+      {
+        "person_or_org": {
+          "identifiers": [
+            {
+              "identifier": "000917t60",
+              "scheme": "ror"
+            },
+            {
+              "identifier": "0000 0001 2191 239X",
+              "scheme": "isni"
+            }
+          ],
+          "name": "Autonomous University of San Luis Potos\u00ed",
+          "type": "organizational"
+        },
+        "role": {
+          "id": "hostinginstitution",
+          "title": {
+            "de": "Bereitstellende Institution",
+            "en": "Hosting institution"
+          }
+        }
+      },
+      {
+        "affiliations": [
+          {
+            "id": "000917t60",
+            "identifiers": [
+              {
+                "identifier": "000917t60",
+                "scheme": "ror"
+              },
+              {
+                "identifier": "grid.412862.b",
+                "scheme": "grid"
+              },
+              {
+                "identifier": "0000 0001 2191 239X",
+                "scheme": "isni"
+              }
+            ],
+            "name": "Autonomous University of San Luis Potos\u00ed"
+          },
+          {
+            "id": "00aejfc65",
+            "identifiers": [
+              {
+                "identifier": "00aejfc65",
+                "scheme": "ror"
+              },
+              {
+                "identifier": "grid.507540.3",
+                "scheme": "grid"
+              },
+              {
+                "identifier": "0000 0004 0387 9444",
+                "scheme": "isni"
+              }
+            ],
+            "name": "Consejo Nacional de Ciencia y Tecnolog\u00eda"
+          }
+        ],
+        "person_or_org": {
+          "family_name": "Guevara",
+          "given_name": "Edgar",
+          "name": "Guevara, Edgar",
+          "type": "personal"
+        },
+        "role": {
+          "id": "supervisor",
+          "title": {
+            "de": "SupervisorIn",
+            "en": "Supervisor"
+          }
+        }
+      }
+    ],
+    "creators": [
+      {
+        "affiliations": [
+          {
+            "id": "000917t60",
+            "identifiers": [
+              {
+                "identifier": "000917t60",
+                "scheme": "ror"
+              },
+              {
+                "identifier": "grid.412862.b",
+                "scheme": "grid"
+              },
+              {
+                "identifier": "0000 0001 2191 239X",
+                "scheme": "isni"
+              }
+            ],
+            "name": "Autonomous University of San Luis Potos\u00ed"
+          },
+          {
+            "id": "00aejfc65",
+            "identifiers": [
+              {
+                "identifier": "00aejfc65",
+                "scheme": "ror"
+              },
+              {
+                "identifier": "grid.507540.3",
+                "scheme": "grid"
+              },
+              {
+                "identifier": "0000 0004 0387 9444",
+                "scheme": "isni"
+              }
+            ],
+            "name": "Consejo Nacional de Ciencia y Tecnolog\u00eda"
+          }
+        ],
+        "person_or_org": {
+          "family_name": "Goodrick",
+          "given_name": "Michelle",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-8953-4161",
+              "scheme": "orcid"
+            }
+          ],
+          "name": "Goodrick, Michelle",
+          "type": "personal"
+        }
+      },
+      {
+        "affiliations": [
+          {
+            "id": "000917t60",
+            "identifiers": [
+              {
+                "identifier": "000917t60",
+                "scheme": "ror"
+              },
+              {
+                "identifier": "grid.412862.b",
+                "scheme": "grid"
+              },
+              {
+                "identifier": "0000 0001 2191 239X",
+                "scheme": "isni"
+              }
+            ],
+            "name": "Autonomous University of San Luis Potos\u00ed"
+          },
+          {
+            "id": "00aejfc65",
+            "identifiers": [
+              {
+                "identifier": "00aejfc65",
+                "scheme": "ror"
+              },
+              {
+                "identifier": "grid.507540.3",
+                "scheme": "grid"
+              },
+              {
+                "identifier": "0000 0004 0387 9444",
+                "scheme": "isni"
+              }
+            ],
+            "name": "Consejo Nacional de Ciencia y Tecnolog\u00eda"
+          }
+        ],
+        "person_or_org": {
+          "family_name": "Guevara",
+          "given_name": "Edgar",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-2313-2810",
+              "scheme": "orcid"
+            }
+          ],
+          "name": "Guevara, Edgar",
+          "type": "personal"
+        },
+        "role": {
+          "id": "supervisor",
+          "title": {
+            "de": "SupervisorIn",
+            "en": "Supervisor"
+          }
+        }
+      }
+    ],
+    "dates": [
+      {
+        "date": "2024",
+        "description": "Dataset ",
+        "type": {
+          "id": "created",
+          "title": {
+            "de": "Erstellt",
+            "en": "Created"
+          }
+        }
+      }
+    ],
+    "description": "<p>This dataset characterizes changes in the prefrontal cortex (PFC) before, during and after Yoga Asana (physical postures) with the mobile neuroimaging technique of functional near-infrared spectroscopy (fNIRS). Measurements were conducted with twenty-seven healthy adults executing four basic Asanas for 23 minutes with each Asana maintained for 25 -30 seconds. All postures significantly increased PFC activity versus baseline and resting state functional connectivity showed a significant decrease post Yoga Asana.</p>\n<p>Files 8, 15 and 24 were removed due to poor signal quality.</p>\n<p>During the measurement process of Asana the following stim marks were used to distinguish between postures:</p>\n<p>Posture A (Tadasana): A</p>\n<p>Posture B (Uttanasana): B</p>\n<p>Posture C (Adho Mukah Svasana): C</p>\n<p>Posture D (Urdhva Muka Svasana): D</p>\n<p>Results of the repeated measures ANOVA are presented for each combination of Asana. Those showing a significant difference are highlighted in green in the second to last tab of the file (Final Table). Demographics of volunteers are outlined in the last tab of the excel file (Demographics Volunteers).&nbsp;</p>",
+    "languages": [
+      {
+        "id": "eng",
+        "title": {
+          "en": "English"
+        }
+      }
+    ],
+    "publication_date": "2024-05-01",
+    "publisher": "ZENODO",
+    "resource_type": {
+      "id": "dataset",
+      "title": {
+        "de": "Datensatz",
+        "en": "Dataset"
+      }
+    },
+    "rights": [
+      {
+        "description": {
+          "en": "The Creative Commons Attribution license allows re-distribution and re-use of a licensed work on the condition that the creator is appropriately credited."
+        },
+        "icon": "cc-by-icon",
+        "id": "cc-by-4.0",
+        "props": {
+          "scheme": "spdx",
+          "url": "https://creativecommons.org/licenses/by/4.0/legalcode"
+        },
+        "title": {
+          "en": "Creative Commons Attribution 4.0 International"
+        }
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "yoga"
+      },
+      {
+        "subject": "resting state functional connectivity"
+      },
+      {
+        "subject": "fNIRS"
+      },
+      {
+        "subject": "pre-frontal cortex"
+      }
+    ],
+    "title": "Yoga Asana Increases Pre-Frontal Cortex Activity and Reduces Resting State Functional Connectivity"
+  },
+  "parent": {
+    "access": {
+      "owned_by": {
+        "user": "1104718"
+      },
+      "settings": {
+        "accept_conditions_text": null,
+        "allow_guest_requests": false,
+        "allow_user_requests": false,
+        "secret_link_expiration": 0
+      }
+    },
+    "communities": {},
+    "id": "11098996",
+    "pids": {
+      "doi": {
+        "client": "datacite",
+        "identifier": "10.5281/zenodo.11098996",
+        "provider": "datacite"
+      }
+    }
+  },
+  "pids": {
+    "doi": {
+      "client": "datacite",
+      "identifier": "10.5281/zenodo.11098997",
+      "provider": "datacite"
+    },
+    "oai": {
+      "identifier": "oai:zenodo.org:11098997",
+      "provider": "oai"
+    }
+  },
+  "revision_id": 10,
+  "stats": {
+    "all_versions": {
+      "data_volume": 14728959119.0,
+      "downloads": 44,
+      "unique_downloads": 38,
+      "unique_views": 58,
+      "views": 69
+    },
+    "this_version": {
+      "data_volume": 14728959119.0,
+      "downloads": 44,
+      "unique_downloads": 38,
+      "unique_views": 58,
+      "views": 69
+    }
+  },
+  "status": "published",
+  "swh": {},
+  "updated": "2025-04-24T07:21:25.949014+00:00",
+  "versions": {
+    "index": 1,
+    "is_latest": true
+  }
+}
